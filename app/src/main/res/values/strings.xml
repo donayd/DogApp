@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DogApp</string>
+    <string name="breed_request">BREED</string>
+    <string name="breed_name">NAME</string>
+    <string name="breed_url">URL</string>
+    <string name="any_text">Ninguna raza ha sido escrita</string>
+    <string name="no_internet">Ups… Tal parece que no tines internet, intentalo mas tarde</string>
+    <string name="dog_detail">"Aqui podemos ver a un %1$s"</string>
+    <string name="default_breed">mix</string>
+    <string name="share_image">Compartir Imagen</string>
+    <string name="image_type">image/png</string>
+    <string name="search_breed">Buscar por raza</string>
+    <string name="button_search">Buscar</string>
+    <string name="list_activity_name">Resultados</string>
+</resources>
